@@ -8,6 +8,6 @@
   * ```rm -rf node_modules; npm i```
 * Change your email per Git repo:
   * ```git config user.email "whatever@cool.com"```
-* Add GitHub actions to a Readme (the workflow name is in the .yml, i.e. "Go", "Android"):
+* Add GitHub actions badges to a Readme (the workflow name is in the .yml, i.e. "Go", "Android"):
   * Example: ![](https://github.com/willfolsom/go-koans/workflows/Go/badge.svg?branch=master)
   * ```![](https://github.com/{owner}/{repo}/workflows/{workflow_name}/badge.svg?branch={targeted_branch})```
