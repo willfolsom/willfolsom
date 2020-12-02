@@ -8,7 +8,8 @@
   
 + Change your email per Git repo: ```git config user.email "whatever@cool.com"```
   
-+ Add GitHub actions badges to a Readme (the workflow name is in the .yml, i.e. "Go", "Android"): ![](https://github.com/willfolsom/go-koans/workflows/Go/badge.svg?branch=master) ```![](https://github.com/{owner}/{repo}/workflows/{workflow_name}/badge.svg?branch={targeted_branch})```
++ Add GitHub actions badges to a Readme (the workflow name is in the .yml, i.e. "Go", "Android"):<br/>
+![](https://github.com/willfolsom/go-koans/workflows/Go/badge.svg?branch=master) ```![](https://github.com/{owner}/{repo}/workflows/{workflow_name}/badge.svg?branch={targeted_branch})```
 
 ### Links 🖲️
 [Cool projects from college](https://cargocollective.com/willfolsom) && [Codepen](https://codepen.io/willfolsom)
