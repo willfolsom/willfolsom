@@ -13,6 +13,5 @@
   * ```![](https://github.com/{owner}/{repo}/workflows/{workflow_name}/badge.svg?branch={targeted_branch})```
 
 ### More links 🖲️
-* [Cargo Collective (projects from college)](https://cargocollective.com/willfolsom)
+* [Cool projects from college](https://cargocollective.com/willfolsom)
 * [Codepen](https://codepen.io/willfolsom)
-* [Flickr](https://www.flickr.com/photos/willfolsom/)
