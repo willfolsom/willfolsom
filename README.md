@@ -13,3 +13,5 @@
 
 ### Links 🖲️
 [Cool projects from college](https://cargocollective.com/willfolsom) && [Codepen](https://codepen.io/willfolsom)
+
+(The pinned repos are probably the ones to checkout.)
