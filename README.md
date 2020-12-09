@@ -1,5 +1,5 @@
-![Stats](https://github-readme-stats.vercel.app/api?username=willfolsom&count_private=true&show_icons=true&bg_color=30,293548,000&hide_title=true&disable_animations=true&&line_height=24&title_color=fff&icon_color=0f0&text_color=fff)
-![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=willfolsom&layout=compact&theme=dark)
+![Stats](https://github-readme-stats.vercel.app/api?username=willfolsom&count_private=true&show_icons=true&bg_color=30,1f2938,000&hide_title=true&disable_animations=true&&line_height=24&title_color=fff&icon_color=0f0&text_color=fff)
+![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=willfolsom&layout=compact&bg_color=30,1f2938,000&hide_title=true&text_color=fff)
 
 ### Protips 🕹️
 + Serve your sites locally when doing simple local web development to bypass CORS issues and such. Run this in the base directory of whatever you're working on (instead of opening index.html): ```python -m SimpleHTTPServer 8080```
