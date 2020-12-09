@@ -11,7 +11,9 @@
 + Add GitHub actions badges to a Readme (the workflow name is in the .yml, i.e. "Go", "Android"):<br/>
 ![](https://github.com/willfolsom/go-koans/workflows/Go/badge.svg?branch=master) ```![](https://github.com/{owner}/{repo}/workflows/{workflow_name}/badge.svg?branch={targeted_branch})```
 
-### Links 🖲️
-[Cool projects from college](https://cargocollective.com/willfolsom) && [Codepen](https://codepen.io/willfolsom)
++ [.zshrc for showing current Git branch]("https://gist.github.com/willfolsom/43d26018be685c651968431124a79906.js")
 
-(The pinned repos are probably the ones to checkout.)
+### Links 🖲️
++ [Cool projects from college](https://cargocollective.com/willfolsom)
++ [Codepen](https://codepen.io/willfolsom)
++ The pinned repos are probably the ones to checkout.
