@@ -14,6 +14,8 @@
 + [.zshrc for showing current Git branch](https://gist.github.com/willfolsom/43d26018be685c651968431124a79906), e.g.:<br/>![](https://user-images.githubusercontent.com/3690251/101680903-5cd0e500-3a2f-11eb-8bbc-82b6888b51c7.png)<br/>
 ```curl https://gist.githubusercontent.com/willfolsom/43d26018be685c651968431124a79906/raw/3f6bc3976448134f14e6cca2d68a71b85eb32b0a/.zshrc -so .zshrc```
 
++ I use [Cmder](https://cmder.net/) as my Windows terminal.
+
 ### Links 🖲️
 + [Cool projects from college](https://cargocollective.com/willfolsom)
 + [Codepen](https://codepen.io/willfolsom)
