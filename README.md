@@ -16,6 +16,8 @@
 
 + I use [Cmder](https://cmder.net/) as my Windows terminal.
 
++ ```git switch``` is the new ```git checkout``` for changing branches.
+
 ### Links 🖲️
 + [Cool projects from college](https://cargocollective.com/willfolsom)
 + [Codepen](https://codepen.io/willfolsom)
