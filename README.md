@@ -18,6 +18,8 @@
 
 + ```git switch``` is the new ```git checkout``` for changing branches.
 
++ ```git clean -dfX``` will remove untracked directories and files (forcefully) from the working tree that are ignored by Git.
+
 ### Links 🖲️
 + [Cool projects from college](https://cargocollective.com/willfolsom)
 + [Codepen](https://codepen.io/willfolsom)
