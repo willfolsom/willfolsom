@@ -16,8 +16,6 @@
 
 + I use [Cmder](https://cmder.net/) as my Windows terminal.
 
-+ ```git switch``` is the new ```git checkout``` for changing branches.
-
 + ```git clean -dfX``` will remove untracked directories and files (forcefully) from the working tree that are ignored by Git.
 
 ### Links 🖲️
