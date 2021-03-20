@@ -25,4 +25,4 @@ Thanks for stopping by. Checkout the 📌s.
 ### Links 🖲️
 + [Cool projects from college](https://cargocollective.com/willfolsom)
 + [Codepen](https://codepen.io/willfolsom)
-+ Koans for [Go](https://github.com/willfolsom/go-koans/) and [Python](https://github.com/willfolsom/python_koans)
++ Koans for [Go](https://github.com/willfolsom/go-koans/) (passing badge above) and [Python](https://github.com/willfolsom/python_koans) [![CI](https://github.com/willfolsom/python_koans/actions/workflows/main.yml/badge.svg)](https://github.com/willfolsom/python_koans/actions/workflows/main.yml)
