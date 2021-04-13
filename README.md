@@ -22,6 +22,8 @@ Thanks for stopping by. Checkout the 📌s.
 
 + ```git clean -dfX``` will remove untracked directories and files (forcefully) from the working tree that are ignored by Git.
 
++ I use [zsh-completions](https://formulae.brew.sh/formula/zsh-completions) so that I have tab completions specifically for Git branches and npm run scripts.
+
 ### Links 🖲️
 + [Cool projects from college](https://cargocollective.com/willfolsom)
 + [Codepen](https://codepen.io/willfolsom)
