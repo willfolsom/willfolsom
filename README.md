@@ -24,6 +24,24 @@ Thanks for stopping by. Checkout the 📌s.
 
 + I use [zsh-completions](https://formulae.brew.sh/formula/zsh-completions) so that I have tab completions specifically for Git branches and npm run scripts.
 
++ See your installed VSCode extensions with ```code --list-extensions | xargs -L 1 echo```. I use:
+```
+CoenraadS.bracket-pair-colorizer
+cssho.vscode-svgviewer
+dsznajder.es7-react-js-snippets
+eamodio.gitlens
+golang.go
+infeng.vscode-react-typescript
+mechatroner.rainbow-csv
+ms-python.python
+ms-toolsai.jupyter
+nick-rudenko.back-n-forth
+richie5um2.snake-trail
+shardulm94.trailing-spaces
+shd101wyy.markdown-preview-enhanced
+syler.sass-indented
+```
+
 ### Links 🖲️
 + [Cool projects from college](https://cargocollective.com/willfolsom)
 + [Codepen](https://codepen.io/willfolsom)
