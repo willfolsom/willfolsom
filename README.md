@@ -47,4 +47,4 @@ syler.sass-indented
 + [Codepen](https://codepen.io/willfolsom)
 + Koans for [Go](https://github.com/willfolsom/go-koans/) (passing badge above) and [Python](https://github.com/willfolsom/python_koans) [![CI](https://github.com/willfolsom/python_koans/actions/workflows/main.yml/badge.svg)](https://github.com/willfolsom/python_koans/actions/workflows/main.yml)
 
-![](https://komarev.com/ghpvc/?username=willfolsom&color=ff69b4&label=views&style=flat)
+![](https://komarev.com/ghpvc/?username=willfolsom&color=ff69b4&label=views&style=flat) ![](https://hit.yhype.me/github/profile?user_id=3690251)
