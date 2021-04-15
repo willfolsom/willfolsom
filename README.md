@@ -24,7 +24,7 @@ Thanks for stopping by. Checkout the 📌s.
 
 + I use [zsh-completions](https://formulae.brew.sh/formula/zsh-completions) so that I have tab completions specifically for Git branches and npm run scripts.
 
-+ See commit numbers per author per repo. Run: ```git ls-tree -r -z --name-only HEAD | xargs -0 -n1 git blame \ --line-porcelain HEAD |grep  "^author "|sort|uniq -c|sort -nr``` (it's slow)
++ See commit numbers per author per repo. Run: ```git ls-tree -r -z --name-only HEAD | xargs -0 -n1 git blame --line-porcelain HEAD |grep  "^author "|sort|uniq -c|sort -nr``` (it can be slow)
 
 + See your installed VSCode extensions with ```code --list-extensions | xargs -L 1 echo```. I use:
 ```
