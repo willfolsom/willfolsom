@@ -26,6 +26,8 @@ Thanks for stopping by. Checkout the 📌s.
 
 + See git blame line numbers per author per repo. Run: ```git ls-tree -r -z --name-only HEAD | xargs -0 -n1 git blame --line-porcelain HEAD |grep  "^author "|sort|uniq -c|sort -nr``` (it can be slow)
 
++ [Update an element in place with Golang range](https://yourbasic.org/golang/gotcha-change-value-range/)
+
 + See your installed VSCode extensions with ```code --list-extensions | xargs -L 1 echo```. I use:
 ```
 CoenraadS.bracket-pair-colorizer
