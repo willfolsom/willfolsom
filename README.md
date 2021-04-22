@@ -40,7 +40,7 @@ syler.sass-indented
 + [Cool projects from college](https://cargocollective.com/willfolsom)
 + [Codepen](https://codepen.io/willfolsom)
 + Koans for:
-  + [Go](https://github.com/willfolsom/go-koans/) [![Go](https://github.com/willfolsom/go-koans/workflows/Go/badge.svg)]
+  + [Go](https://github.com/willfolsom/go-koans/) ![Go](https://github.com/willfolsom/go-koans/workflows/Go/badge.svg)
   + [Python](https://github.com/willfolsom/python_koans) [![Python](https://github.com/willfolsom/python_koans/actions/workflows/main.yml/badge.svg)](https://github.com/willfolsom/python_koans/actions/workflows/main.yml)
   + [Ruby](https://github.com/willfolsom/ruby_koans) [![Ruby](https://github.com/willfolsom/ruby_koans/actions/workflows/ruby.yml/badge.svg)](https://github.com/willfolsom/ruby_koans/actions/workflows/ruby.yml)
 + [More stats here.](https://profile-summary-for-github.com/user/willfolsom)
