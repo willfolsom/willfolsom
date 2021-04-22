@@ -40,9 +40,9 @@ syler.sass-indented
 + [Cool projects from college](https://cargocollective.com/willfolsom)
 + [Codepen](https://codepen.io/willfolsom)
 + Koans for:
-  + [Go](https://github.com/willfolsom/go-koans/) [![Go](https://github.com/willfolsom/go-koans/workflows/Go/badge.svg)](https://github.com/willfolsom/go-koans/blob/master/.github/workflows/go.yml)
-  + [Python](https://github.com/willfolsom/python_koans) [![Python](https://github.com/willfolsom/python_koans/actions/workflows/main.yml/badge.svg)](https://github.com/willfolsom/python_koans/actions/workflows/main.yml)
-  + [Ruby](https://github.com/willfolsom/ruby_koans) [![Ruby](https://github.com/willfolsom/ruby_koans/actions/workflows/ruby.yml/badge.svg)](https://github.com/willfolsom/ruby_koans/actions/workflows/ruby.yml)
+  + [![Go](https://github.com/willfolsom/go-koans/workflows/Go/badge.svg)](https://github.com/willfolsom/go-koans/)
+  + [![Python](https://github.com/willfolsom/python_koans/actions/workflows/main.yml/badge.svg)](https://github.com/willfolsom/python_koans)
+  + [![Ruby](https://github.com/willfolsom/ruby_koans/actions/workflows/ruby.yml/badge.svg)](https://github.com/willfolsom/ruby_koans)
 + [More stats here.](https://profile-summary-for-github.com/user/willfolsom)
 
 ![](https://komarev.com/ghpvc/?username=willfolsom&color=ff69b4&label=views&style=flat) ![](https://hit.yhype.me/github/profile?user_id=3690251) 
