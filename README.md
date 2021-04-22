@@ -3,8 +3,6 @@ Thanks for stopping by. Checkout the 📌s.
 ![Stats](https://github-readme-stats.vercel.app/api?username=willfolsom&count_private=true&show_icons=true&bg_color=30,1f2938,000&hide_title=true&disable_animations=true&&line_height=24&title_color=fff&icon_color=0f0&text_color=fff)
 ![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=willfolsom&layout=compact&bg_color=30,1f2938,000&hide_title=true&text_color=fff)
 
-#### [More stats here.](https://profile-summary-for-github.com/user/willfolsom)
-
 ### Protips 🕹️
 + Serve your sites locally when doing simple local web development to bypass CORS issues and such. Run this in the base directory of whatever you're working on (instead of opening index.html): ```python -m SimpleHTTPServer 8080```
   
@@ -54,4 +52,5 @@ syler.sass-indented
 + [Codepen](https://codepen.io/willfolsom)
 + Koans for [Go](https://github.com/willfolsom/go-koans/) (passing badge above) and [Python](https://github.com/willfolsom/python_koans) [![CI](https://github.com/willfolsom/python_koans/actions/workflows/main.yml/badge.svg)](https://github.com/willfolsom/python_koans/actions/workflows/main.yml)
 
-![](https://komarev.com/ghpvc/?username=willfolsom&color=ff69b4&label=views&style=flat) ![](https://hit.yhype.me/github/profile?user_id=3690251)
+![](https://komarev.com/ghpvc/?username=willfolsom&color=ff69b4&label=views&style=flat) ![](https://hit.yhype.me/github/profile?user_id=3690251) 
+#### [More stats here.](https://profile-summary-for-github.com/user/willfolsom)
