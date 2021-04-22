@@ -9,22 +9,10 @@ Thanks for stopping by. Checkout the 📌s.
 + Serve your sites locally when doing simple local web development to bypass CORS issues and such. Run this in the base directory of whatever you're working on (instead of opening index.html): ```python -m SimpleHTTPServer 8080```
   
 + Clean install your Node modules: ```rm -rf node_modules; npm i```
-  
-+ Change your email per Git repo: ```git config user.email "whatever@cool.com"```
-  
-+ Add GitHub actions badges to a Readme (the workflow name is in the .yml, i.e. "Go", "Android", etc):<br/>
-![](https://github.com/willfolsom/go-koans/workflows/Go/badge.svg?branch=master) ```![](https://github.com/{owner}/{repo}/workflows/{workflow_name}/badge.svg?branch={targeted_branch})```
-
-+ [.zshrc for showing current Git branch](https://gist.github.com/willfolsom/43d26018be685c651968431124a79906), e.g.:<br/>![](https://user-images.githubusercontent.com/3690251/101680903-5cd0e500-3a2f-11eb-8bbc-82b6888b51c7.png)<br/>
-```curl https://gist.githubusercontent.com/willfolsom/43d26018be685c651968431124a79906/raw/3f6bc3976448134f14e6cca2d68a71b85eb32b0a/.zshrc -so .zshrc```
 
 + I use [Cmder](https://cmder.net/) as my Windows terminal.
 
-+ ```git clean -dfX``` will remove untracked directories and files (forcefully) from the working tree that are ignored by Git.
-
 + I use [zsh-completions](https://formulae.brew.sh/formula/zsh-completions) so that I have tab completions specifically for Git branches and npm run scripts.
-
-+ See git blame line numbers per author per repo. Run: ```git ls-tree -r -z --name-only HEAD | xargs -0 -n1 git blame --line-porcelain HEAD |grep  "^author "|sort|uniq -c|sort -nr``` (it can be slow)
 
 + [Update an element in place with Golang range](https://yourbasic.org/golang/gotcha-change-value-range/)
 
@@ -45,6 +33,21 @@ shardulm94.trailing-spaces
 shd101wyy.markdown-preview-enhanced
 syler.sass-indented
 ```
+
+### Git / Github 💾
++ Change your email per Git repo: ```git config user.email "whatever@cool.com"```
+
++ Rollback one commit: ```git reset HEAD~```
+
++ ```git clean -dfX``` will remove untracked directories and files (forcefully) from the working tree that are ignored by Git.
+
++ See git blame line numbers per author per repo. Run: ```git ls-tree -r -z --name-only HEAD | xargs -0 -n1 git blame --line-porcelain HEAD |grep  "^author "|sort|uniq -c|sort -nr``` (it can be slow)
+
++ Add GitHub actions badges to a Readme (the workflow name is in the .yml, i.e. "Go", "Android", etc):<br/>
+![](https://github.com/willfolsom/go-koans/workflows/Go/badge.svg?branch=master) ```![](https://github.com/{owner}/{repo}/workflows/{workflow_name}/badge.svg?branch={targeted_branch})```
+
++ [.zshrc for showing current Git branch](https://gist.github.com/willfolsom/43d26018be685c651968431124a79906), e.g.:<br/>![](https://user-images.githubusercontent.com/3690251/101680903-5cd0e500-3a2f-11eb-8bbc-82b6888b51c7.png)<br/>
+```curl https://gist.githubusercontent.com/willfolsom/43d26018be685c651968431124a79906/raw/3f6bc3976448134f14e6cca2d68a71b85eb32b0a/.zshrc -so .zshrc```
 
 ### Links 🖲️
 + [Cool projects from college](https://cargocollective.com/willfolsom)
