@@ -39,7 +39,8 @@ syler.sass-indented
 ### 🖲️ Links
 + [Cool projects from college](https://cargocollective.com/willfolsom)
 + [Codepen](https://codepen.io/willfolsom)
-+ [More stats here.](https://profile-summary-for-github.com/user/willfolsom)
++ [Exercism Profile](https://exercism.io/profiles/willfolsom)
++ [More stats here](https://profile-summary-for-github.com/user/willfolsom)
 + Koans:
   + [![Go](https://github.com/willfolsom/go-koans/workflows/Go/badge.svg)](https://github.com/willfolsom/go-koans/)
   + [![Python](https://github.com/willfolsom/python_koans/actions/workflows/main.yml/badge.svg)](https://github.com/willfolsom/python_koans)
