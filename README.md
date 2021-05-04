@@ -5,6 +5,7 @@
 + Serve your sites locally when doing simple local web development to bypass CORS issues and such. Run this in the base directory of whatever you're working on (instead of opening index.html): ```python -m SimpleHTTPServer 8080```
 + Clean install your Node modules: ```rm -rf node_modules; npm i```
 + I use [Cmder](https://cmder.net/) as my Windows terminal.
++ [Spectacle](https://github.com/eczarny/spectacle) (on Macs) is a must.
 + [Update an element in place with Golang range](https://yourbasic.org/golang/gotcha-change-value-range/)
 + See your installed VSCode extensions with ```code --list-extensions | xargs -L 1 echo```. I use:
 ```
