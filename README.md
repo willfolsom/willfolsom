@@ -12,8 +12,10 @@ CoenraadS.bracket-pair-colorizer
 cssho.vscode-svgviewer
 dsznajder.es7-react-js-snippets
 eamodio.gitlens
+fwcd.kotlin
 golang.go
 infeng.vscode-react-typescript
+mathiasfrohlich.Kotlin
 mechatroner.rainbow-csv
 ms-python.python
 ms-toolsai.jupyter
@@ -22,6 +24,7 @@ richie5um2.snake-trail
 shardulm94.trailing-spaces
 shd101wyy.markdown-preview-enhanced
 syler.sass-indented
+yokoe.vscode-postfix-go
 ```
 
 ### 💾 Git / Github
