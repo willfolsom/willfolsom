@@ -6,26 +6,7 @@
 + Clean install your Node modules: ```rm -rf node_modules; npm i```
 + I use [Cmder](https://cmder.net/) as my Windows terminal.
 + [Spectacle](https://github.com/eczarny/spectacle) (on Macs) is a must.
-+ See your installed VSCode extensions with ```code --list-extensions | xargs -L 1 echo```. I use:
-```
-CoenraadS.bracket-pair-colorizer
-cssho.vscode-svgviewer
-dsznajder.es7-react-js-snippets
-eamodio.gitlens
-fwcd.kotlin
-golang.go
-infeng.vscode-react-typescript
-mathiasfrohlich.Kotlin
-mechatroner.rainbow-csv
-ms-python.python
-ms-toolsai.jupyter
-nick-rudenko.back-n-forth
-richie5um2.snake-trail
-shardulm94.trailing-spaces
-shd101wyy.markdown-preview-enhanced
-syler.sass-indented
-yokoe.vscode-postfix-go
-```
++ See your installed VSCode extensions with ```code --list-extensions | xargs -L 1 echo```. [I use all of these.](https://gist.github.com/willfolsom/cc712a2fa6ae84ccc85736382911fb01)
 
 ### 💾 Git / Github
 + Change your email per Git repo: ```git config user.email "whatever@cool.com"```
