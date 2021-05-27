@@ -8,6 +8,7 @@
 + [Spectacle](https://github.com/eczarny/spectacle) (on Macs) is a must.
 + See your installed VSCode extensions with ```code --list-extensions | xargs -L 1 echo```. [I use all of these.](https://gist.github.com/willfolsom/cc712a2fa6ae84ccc85736382911fb01)
 + [Quick tips on using Mockito Fakes, Stubs, Mocks, and Spys](https://gist.github.com/willfolsom/6ed3f2affe92a425c8c13d73f120be86#file-mockito-fakes-stubs-mocks-and-spys)
++ [Use tput and variables to make shell script output cooler.](https://gist.github.com/willfolsom/f927436a3c695b874bc7349359c9f745)
 
 ### 💾 Git / Github
 + Change your email per Git repo: ```git config user.email "whatever@cool.com"```
