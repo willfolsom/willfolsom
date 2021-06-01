@@ -12,7 +12,7 @@
 
 ### 💾 Git / Github
 + Change your email per Git repo: ```git config user.email "whatever@cool.com"```
-+ Rollback commits: ```git reset HEAD~{number to rollback)```
++ Rollback commits: ```git reset HEAD~{number to rollback}```
 + ```git clean -dfX``` will remove untracked directories and files (forcefully) from the working tree that are ignored by Git.
 + See git blame line numbers per author per repo. Run: ```git ls-tree -r -z --name-only HEAD | xargs -0 -n1 git blame --line-porcelain HEAD |grep  "^author "|sort|uniq -c|sort -nr``` (it can be slow)
 + Add GitHub actions badges to a Readme (the workflow name is in the .yml, i.e. "Go", "Android", etc):<br/> ```![](https://github.com/{owner}/{repo}/workflows/{workflow_name}/badge.svg?branch={targeted_branch})```
