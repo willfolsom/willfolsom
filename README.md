@@ -1,4 +1,3 @@
-![Stats](https://github-readme-stats.vercel.app/api?username=willfolsom&count_private=true&show_icons=true&bg_color=30,1f2938,000&hide_title=true&disable_animations=true&&line_height=24&title_color=fff&icon_color=0f0&text_color=fff)
 ![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=willfolsom&layout=compact&bg_color=30,1f2938,000&hide_title=true&text_color=fff)
 
 ### 🕹️ Protips
