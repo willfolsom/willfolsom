@@ -21,7 +21,6 @@
 ```curl https://gist.githubusercontent.com/willfolsom/43d26018be685c651968431124a79906/raw/3f6bc3976448134f14e6cca2d68a71b85eb32b0a/.zshrc -so .zshrc```
 
 ### 🖲️ Links
-+ [Mentoring via Superpeer](https://superpeer.com/willfolsom)
 + [Cool projects from college](https://cargocollective.com/willfolsom)
 + [Codepen](https://codepen.io/willfolsom)
 + [Exercism Profile](https://exercism.io/profiles/willfolsom)
