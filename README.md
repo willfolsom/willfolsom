@@ -7,8 +7,9 @@
 + [Spectacle](https://github.com/eczarny/spectacle) (on Macs) is a must.
 + See your installed VSCode extensions with ```code --list-extensions | xargs -L 1 echo```. [I use all of these.](https://gist.github.com/willfolsom/cc712a2fa6ae84ccc85736382911fb01)
 + [Use tput and variables to make shell script output cooler](https://gist.github.com/willfolsom/f927436a3c695b874bc7349359c9f745)
-+ Use `console.table({someObject})` instead of logs
++ Use `console.table({someObject})` instead of logs.
 + [Five layer networking model example](https://gist.github.com/willfolsom/9bae5b1fdb00dc65884785d9f757f5f2)
++ Profile and optimize your regex.
 
 ### 💾 Git / Github
 + Change your email per Git repo: ```git config user.email "whatever@cool.com"```
