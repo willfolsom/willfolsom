@@ -10,6 +10,7 @@
 + Use `console.table({someObject})` instead of logs.
 + [Five layer networking model example](https://gist.github.com/willfolsom/9bae5b1fdb00dc65884785d9f757f5f2)
 + Profile and optimize your regex.
++ Jira points (N) are (N-1) * 4 = hours.
 
 ### 💾 Git / Github
 + Change your email per Git repo: ```git config user.email "whatever@cool.com"```
