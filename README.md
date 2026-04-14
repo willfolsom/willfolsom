@@ -23,7 +23,7 @@
 <tr>
 <td valign="top" width="50%">
 
-<h3>🎮 Minigames</h3>
+<p><strong>🎮 Minigames</strong></p>
 <ul>
 <li><a href="https://buzz-n64-warp-speed.lovable.app/">Buzz's Infinite Loop</a></li>
 <li><a href="https://infinite-pond.lovable.app/">Infinite Pond</a></li>
@@ -33,7 +33,7 @@
 </td>
 <td valign="top" width="50%">
 
-<h3>🖲️ Links</h3>
+<p><strong>🖲️ Links</strong></p>
 <ul>
 <li><a href="https://cargocollective.com/willfolsom">Cool projects from college</a></li>
 <li><a href="https://codepen.io/willfolsom">Codepen</a></li>
