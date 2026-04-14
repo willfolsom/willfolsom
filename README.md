@@ -24,10 +24,30 @@
 + [.zshrc for showing current Git branch](https://gist.github.com/willfolsom/43d26018be685c651968431124a79906), e.g.:<br/>![](https://user-images.githubusercontent.com/3690251/101680903-5cd0e500-3a2f-11eb-8bbc-82b6888b51c7.png)<br/>
 ```curl https://gist.githubusercontent.com/willfolsom/43d26018be685c651968431124a79906/raw/3f6bc3976448134f14e6cca2d68a71b85eb32b0a/.zshrc -so .zshrc```
 
-### 🖲️ Links
-+ [Cool projects from college](https://cargocollective.com/willfolsom)
-+ [Codepen](https://codepen.io/willfolsom)
-+ [Exercism Profile](https://exercism.io/profiles/willfolsom)
-+ [More stats here](https://profile-summary-for-github.com/user/willfolsom)
+<table>
+  <tr>
+    <td valign="top" width="50%">
+
+      <h3>🎮 Minigames</h3>
+      <ul>
+        <li><a href="https://buzz-n64-warp-speed.lovable.app/">Buzz's Infinite Loop</a></li>
+        <li><a href="https://infinite-pond.lovable.app/">Infinite Pond</a></li>
+        <li><a href="https://grand-slam-bounce.lovable.app/">Grand Slam Bounce</a></li>
+      </ul>
+
+    </td>
+    <td valign="top" width="50%">
+
+      <h3>🖲️ Links</h3>
+      <ul>
+        <li><a href="https://cargocollective.com/willfolsom">Cool projects from college</a></li>
+        <li><a href="https://codepen.io/willfolsom">Codepen</a></li>
+        <li><a href="https://exercism.io/profiles/willfolsom">Exercism Profile</a></li>
+        <li><a href="https://profile-summary-for-github.com/user/willfolsom">More stats here</a></li>
+      </ul>
+
+    </td>
+  </tr>
+</table>
 
 ![](https://komarev.com/ghpvc/?username=willfolsom&color=ff69b4&label=views&style=flat) ![](https://hit.yhype.me/github/profile?user_id=3690251) 
