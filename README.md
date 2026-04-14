@@ -1,8 +1,3 @@
-### 🎮 Minigames
-+ [Buzz's Infinite Loop](https://buzz-n64-warp-speed.lovable.app/)
-+ [Infinite Pond](https://infinite-pond.lovable.app/)
-+ [Grand Slam Bounce](https://grand-slam-bounce.lovable.app/)
-
 ### 🕹️ Protips
 + Serve your sites locally when doing simple local web development to bypass CORS issues and such. Run this in the base directory of whatever you're working on (instead of opening index.html): ```python -m SimpleHTTPServer 8080```
 + Clean install your Node modules: ```rm -rf node_modules; npm i```
@@ -26,24 +21,24 @@
 
 <table>
 <tr>
-<td>
+<td valign="top" width="50%">
 
 <h3>🎮 Minigames</h3>
 <ul>
-  <li><a href="https://buzz-n64-warp-speed.lovable.app/">Buzz's Infinite Loop</a></li>
-  <li><a href="https://infinite-pond.lovable.app/">Infinite Pond</a></li>
-  <li><a href="https://grand-slam-bounce.lovable.app/">Grand Slam Bounce</a></li>
+<li><a href="https://buzz-n64-warp-speed.lovable.app/">Buzz's Infinite Loop</a></li>
+<li><a href="https://infinite-pond.lovable.app/">Infinite Pond</a></li>
+<li><a href="https://grand-slam-bounce.lovable.app/">Grand Slam Bounce</a></li>
 </ul>
 
 </td>
-<td>
+<td valign="top" width="50%">
 
 <h3>🖲️ Links</h3>
 <ul>
-  <li><a href="https://cargocollective.com/willfolsom">Cool projects from college</a></li>
-  <li><a href="https://codepen.io/willfolsom">Codepen</a></li>
-  <li><a href="https://exercism.io/profiles/willfolsom">Exercism Profile</a></li>
-  <li><a href="https://profile-summary-for-github.com/user/willfolsom">More stats here</a></li>
+<li><a href="https://cargocollective.com/willfolsom">Cool projects from college</a></li>
+<li><a href="https://codepen.io/willfolsom">Codepen</a></li>
+<li><a href="https://exercism.io/profiles/willfolsom">Exercism Profile</a></li>
+<li><a href="https://profile-summary-for-github.com/user/willfolsom">More stats here</a></li>
 </ul>
 
 </td>
