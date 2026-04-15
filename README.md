@@ -21,15 +21,8 @@
 
 ### 🎮 Minigames
 
-<img src="https://github.com/willfolsom/buzz-s-infinite-loop/raw/main/buzz.png" width="300"><br>
-<a href="https://buzz-n64-warp-speed.lovable.app/">Buzz's Infinite Loop</a>
-
-
-<img src="https://github.com/willfolsom/infinite-fishing-fun/raw/main/img.png" width="300"><br>
-<a href="https://infinite-pond.lovable.app/">Infinite Fishing Fun</a>
-
-
-<img src="https://github.com/willfolsom/grand-slam-bounce/raw/main/grandslambounce.png" width="300"><br>
+<a href="https://buzz-n64-warp-speed.lovable.app/">Buzz's Infinite Loop</a><br/>
+<a href="https://infinite-pond.lovable.app/">Infinite Fishing Fun</a><br/>
 <a href="https://grand-slam-bounce.lovable.app/">Grand Slam Bounce</a>
 
 ### 🖲️ Links
