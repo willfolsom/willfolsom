@@ -21,14 +21,13 @@
 
 ### 🎮 Minigames
 
-<a href="https://buzz-n64-warp-speed.lovable.app/">Buzz's Infinite Loop</a><br/>
-<a href="https://infinite-pond.lovable.app/">Infinite Fishing Fun</a><br/>
-<a href="https://grand-slam-bounce.lovable.app/">Grand Slam Bounce</a>
+<a href="https://buzz-n64-warp-speed.lovable.app/" target="_blank">Buzz's Infinite Loop</a><br/>
+<a href="https://infinite-pond.lovable.app/" target="_blank">Infinite Fishing Fun</a><br/>
+<a href="https://grand-slam-bounce.lovable.app/" target="_blank">Grand Slam Bounce</a>
 
 ### 🖲️ Links
-+ [Cool projects from college](https://cargocollective.com/willfolsom)
-+ [Codepen](https://codepen.io/willfolsom)
-+ [Exercism Profile](https://exercism.io/profiles/willfolsom)
-+ [More stats here](https://profile-summary-for-github.com/user/willfolsom)
+<a href="https://cargocollective.com/willfolsom" target="_blank">Cool projects from collect</a><br/>
+<a href="https://codepen.io/willfolsom" target="_blank">Codepen</a><br/>
+<a href="https://exercism.io/profiles/willfolsom" target="_blank">Exercism Profile</a>
 
 ![](https://komarev.com/ghpvc/?username=willfolsom&color=ff69b4&label=views&style=flat) ![](https://hit.yhype.me/github/profile?user_id=3690251) 
