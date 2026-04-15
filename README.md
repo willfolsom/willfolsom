@@ -21,13 +21,13 @@
 
 ### 🎮 Minigames
 <img src="https://github.com/willfolsom/buzz-s-infinite-loop/raw/main/img.png" alt="" width="300"/>
-[Buzz's Infinite Loop](https://buzz-n64-warp-speed.lovable.app/)
++ [Buzz's Infinite Loop](https://buzz-n64-warp-speed.lovable.app/)
 
 <img src="https://github.com/willfolsom/infinite-fishing-fun/raw/main/img.png" alt="" width="300"/>
-[Infinite Fishing Fun](https://infinite-pond.lovable.app/)
++ [Infinite Fishing Fun](https://infinite-pond.lovable.app/)
 
 <img src="https://github.com/willfolsom/grand-slam-bounce/raw/main/grandslambounce.png" alt="" width="300"/>
-[Grand Slam Bounce](https://grand-slam-bounce.lovable.app/)
++ [Grand Slam Bounce](https://grand-slam-bounce.lovable.app/)
 
 ### 🖲️ Links
 + [Cool projects from college](https://cargocollective.com/willfolsom)
