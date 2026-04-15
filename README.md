@@ -21,7 +21,7 @@
 
 ### 🎮 Minigames
 
-<img src="https://github.com/willfolsom/buzz-s-infinite-loop/raw/main/img.png" width="300"><br>
+<img src="https://github.com/willfolsom/buzz-s-infinite-loop/raw/main/buzz.png" width="300"><br>
 <a href="https://buzz-n64-warp-speed.lovable.app/">Buzz's Infinite Loop</a>
 
 
