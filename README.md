@@ -26,7 +26,7 @@
 <a href="https://grand-slam-bounce.lovable.app/" target="_blank">Grand Slam Bounce</a>
 
 ### 🖲️ Links
-<a href="https://cargocollective.com/willfolsom" target="_blank">Cool projects from collect</a><br/>
+<a href="https://cargocollective.com/willfolsom" target="_blank">Cool projects from college</a><br/>
 <a href="https://codepen.io/willfolsom" target="_blank">Codepen</a><br/>
 <a href="https://exercism.io/profiles/willfolsom" target="_blank">Exercism Profile</a>
 
